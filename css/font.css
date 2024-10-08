@@ -1,0 +1,26 @@
+@font-face {
+    font-display: swap; 
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src:
+         url('../fonts/Ubuntu-Regular.ttf') format('ttf'),
+  }
+  
+  @font-face {
+    font-display: swap; 
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    src:
+         url('../fonts/Ubuntu-Bold.ttf') format('ttf'),
+  }
+  
+  @font-face {
+    font-display: swap; 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src:
+         url('../fonts/Roboto-Regular.ttf') format('ttf'), 
+  }
